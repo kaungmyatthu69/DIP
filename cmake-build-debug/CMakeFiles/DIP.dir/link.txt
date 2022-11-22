@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/DIP.dir/minipj.cpp.o -o DIP 

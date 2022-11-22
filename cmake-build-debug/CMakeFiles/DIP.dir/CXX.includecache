@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/kaung/CLionProjects/DIP/minipj.cpp
+stdio.h
+/home/kaung/CLionProjects/DIP/stdio.h
+stdlib.h
+/home/kaung/CLionProjects/DIP/stdlib.h
+

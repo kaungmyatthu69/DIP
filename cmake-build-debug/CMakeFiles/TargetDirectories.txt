@@ -1,0 +1,3 @@
+/home/kaung/CLionProjects/DIP/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/kaung/CLionProjects/DIP/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/kaung/CLionProjects/DIP/cmake-build-debug/CMakeFiles/DIP.dir
